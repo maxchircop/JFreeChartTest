@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fdbca84-daf8-4134-8cf9-485cd77e4a17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGBJdjSvvwHwCtweJTYGMEKzYo" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.ChartTest">
+    <configuration name="ChartTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChartTest" />
+      <module name="JFreeChartTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombinedXYPlotDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jfree.chart.demo.CombinedXYPlotDemo1" />
+      <module name="JFreeChartTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jfree.chart.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChartTest" />
+        <item itemvalue="Application.CombinedXYPlotDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fdbca84-daf8-4134-8cf9-485cd77e4a17" name="Default Changelist" comment="" />
+      <created>1586351979351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586351979351</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="54" key="#Project_Structure" timestamp="1586352053355">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="240" y="54" key="#Project_Structure/0.23.1280.732@0.23.1280.732" timestamp="1586352053355" />
+    <state x="482" y="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586375757653">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="482" y="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1280.732@0.23.1280.732" timestamp="1586375757653" />
+    <state width="1238" height="227" key="GridCell.Tab.0.bottom" timestamp="1586441387731">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586441387731" />
+    <state width="1238" height="227" key="GridCell.Tab.0.center" timestamp="1586441387731">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1586441387731" />
+    <state width="1238" height="227" key="GridCell.Tab.0.left" timestamp="1586441387730">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1586441387730" />
+    <state width="1238" height="227" key="GridCell.Tab.0.right" timestamp="1586441387731">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1586441387731" />
+    <state width="1238" height="227" key="GridCell.Tab.1.bottom" timestamp="1586441387732">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586441387732" />
+    <state width="1238" height="227" key="GridCell.Tab.1.center" timestamp="1586441387732">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1586441387732" />
+    <state width="1238" height="227" key="GridCell.Tab.1.left" timestamp="1586441387732">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1586441387732" />
+    <state width="1238" height="227" key="GridCell.Tab.1.right" timestamp="1586441387732">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="227" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1586441387732" />
+    <state x="187" y="78" key="Maven.ArtifactSearchDialog" timestamp="1586353079581">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="187" y="78" key="Maven.ArtifactSearchDialog/0.23.1280.732@0.23.1280.732" timestamp="1586353079581" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1586369938951">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.732@0.23.1280.732" timestamp="1586369938951" />
+    <state x="423" y="174" key="chooseDestDirectoryDialog" timestamp="1586352190302">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="423" y="174" key="chooseDestDirectoryDialog/0.23.1280.732@0.23.1280.732" timestamp="1586352190302" />
+    <state x="0" y="86" key="new project wizard" timestamp="1586441384765">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="0" y="86" key="new project wizard/0.23.1280.732@0.23.1280.732" timestamp="1586441384765" />
+    <state x="305" y="79" width="670" height="676" key="search.everywhere.popup" timestamp="1586373998609">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="305" y="79" width="670" height="676" key="search.everywhere.popup/0.23.1280.732@0.23.1280.732" timestamp="1586373998609" />
+  </component>
+</project>
